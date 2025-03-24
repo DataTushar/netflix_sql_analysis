@@ -6,7 +6,7 @@ This project is a **comprehensive SQL-based analysis** of Netflix's content libr
 
 ---
 ## 📚 Dataset Information  
-The dataset used in this project is sourced from **Kaggle** and contains metadata about movies and TV shows available on Netflix. The dataset includes the following attributes:
+The dataset used in this project is sourced from https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download and contains metadata about movies and TV shows available on Netflix. The dataset includes the following attributes:
 
 | Column Name  | Description |
 |-------------|------------|
